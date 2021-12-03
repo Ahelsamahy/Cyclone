@@ -25,13 +25,13 @@ There are 10 led and two buttons on the board, 8 green LEDs in the middle and on
 When you score, the 5 LEDs (4 green and 1 red) on your side will blink for how many points you have.
 
 # How-to
-These are the component that you will need to make it. <p align="center">
+These are the component that you will need to make it.  <p align="center">
 <img src="https://github.com/Ahelsamahy/Cyclone-arcade-game/blob/main/all.jpg?raw=true" >
 </p>
-I made an A-Z tutorial of how to assemble a small box that would be good for the job on **[Instructables][1]** .
 
-[1]: https://www.instructables.com/Cyclone-Game-Using-Arduino/
+For detailed instructions, I made an A-Z tutorial of how to assemble a small box that would be good for the job on [Instructables][1] (1k+ Views).
 
+[1]: https://www.instructables.com/Cyclone-Game-Using-Arduino/ "cool stuff"
 
 # Emailware
 Cyclone is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <ahmelsamahy@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
